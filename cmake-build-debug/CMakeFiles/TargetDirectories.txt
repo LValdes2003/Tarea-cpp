@@ -1,0 +1,3 @@
+C:/Users/Oblitionmaster/Documents/GitHub/Tarea-cpp/cmake-build-debug/CMakeFiles/Tarea_cpp.dir
+C:/Users/Oblitionmaster/Documents/GitHub/Tarea-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Oblitionmaster/Documents/GitHub/Tarea-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
